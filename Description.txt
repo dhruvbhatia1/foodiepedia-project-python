@@ -1,0 +1,4 @@
+Foodiepedia is a program where you can find various kinds of recipes
+You can also add/edit/delete recipes and dishes of your choice.
+
+It's made using Tkinter and MySQL connectivity in Python.

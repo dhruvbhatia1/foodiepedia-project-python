@@ -1,0 +1,24 @@
+INSTRUCTIONS TO USE - 
+
+STEP 1 - 
+	OPEN FOODIEPEDIA_DATABASE.PY 
+On Line 59, Edit the location of MySQL client 	in accordance to your PC.
+
+In the Second Last line put a = (your MySQL password)
+Run the python file
+
+- It will open the mysql command line and start creating the database automatically
+(Please don't press any key in between as the program will create the database itself.)
+
+
+Step 2 - 
+Open mysql_functions.py and change the password of MySQL in line 2
+
+Step 3 - 
+Open foodiepedia.py and run it
+
+
+NOTE - Please ensure thal all the files, pictures and text files are in the same folder.
+
+
+
